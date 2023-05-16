@@ -1,0 +1,10 @@
+const myAge = 21;
+let earlyYears = 2;
+earlyYears *= 10.5;
+let laterYears = myAge - 2;
+console.log(laterYears);
+laterYears *= 4;
+console.log(earlyYears);
+const myAgeInDogYears = (earlyYears + laterYears);
+const myName = ('Lokesh'.toLowerCase());
+console.log(`My Name is ${myName}. I am ${myAge} year old in human year which is ${myAgeInDogYears} years old in dog year`);
