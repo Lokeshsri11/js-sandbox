@@ -1,3 +1,4 @@
+// Race Day Project
 let raceNumber = Math.floor(Math.random() * 1000);
 const registerdEarly = true;
 const runnerAge = 20;
